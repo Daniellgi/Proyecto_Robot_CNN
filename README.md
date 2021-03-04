@@ -1,9 +1,9 @@
-# Clasificador-componentes-electronicos
+# Proyecto-Robot-CNN
 
-El proyecto consiste en un sistema que permite separar y clasificar componentes electrónicos, utilizando técnicas de visión artificial, diseño mecánico.
-Consulta en https://youtu.be/x4WwQsQavkM y https://youtu.be/3oi_tgKlCLg para obtener mas información sobre como funciona el proyecto.
+El proyecto consiste en un robot  que tiene como fin principal salir del laberinto. Para hacer esto hace uso de técnicas de visión artificial  para detectar diferentes objetos que se encuentra en su camino, a partir de objetos encontrados el debe tomar la decisión de a que dirección moverse.
+Consulta en https://youtu.be/CMPGpAKLEnA para obtener mas información sobre como funciona el proyecto.
 
-<img src="https://github.com/Daniellgi/Clasificador-componentes-electronicos/blob/main/interfaz.png" width="900" height="500">
+<img src="https://github.com/Daniellgi/Proyecto_Robot_CNN/blob/main/prediccion.png" width="900" height="500">
 
 ## Requisitos previos para su ejecución
 
