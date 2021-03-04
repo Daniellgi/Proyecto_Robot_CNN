@@ -6,7 +6,7 @@ nmsThreshold = 0.40
 inpWidth = 416
 inpHeight = 416
 
-classes = ["0","1","2","3","4","5","6","7","8","9","Moto","Avion","Carro","Barco","Helico"]
+classes = ["0","1","2","3","4","5","6","7","8","9","Moto","Helico","Carro","Barco","Avion"]
 
 modelConf = "Bono_4.cfg"
 modelWeights = "bono_4_86000.weights"
