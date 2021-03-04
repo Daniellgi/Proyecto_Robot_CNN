@@ -3,7 +3,7 @@
 El proyecto consiste en un robot  que tiene como fin principal salir del laberinto. Para hacer esto hace uso de técnicas de visión artificial  para detectar diferentes objetos que se encuentra en su camino, a partir de objetos encontrados el debe tomar la decisión de a que dirección moverse.
 Consulta en https://youtu.be/CMPGpAKLEnA para obtener mas información sobre como funciona el proyecto.
 
-<img src="https://github.com/Daniellgi/Proyecto_Robot_CNN/blob/main/prediccion.png" width="400" height="277"> <img src="https://github.com/Daniellgi/Proyecto_Robot_CNN/blob/main/laberinto.png" width="500" height="277"> 
+<img src="https://github.com/Daniellgi/Proyecto_Robot_CNN/blob/main/prediccion.png" width="400" height="277">   <img src="https://github.com/Daniellgi/Proyecto_Robot_CNN/blob/main/laberinto.png" width="500" height="277"> 
 
 ## Requisitos previos para su ejecución
 
